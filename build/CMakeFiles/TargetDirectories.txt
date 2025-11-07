@@ -1,0 +1,4 @@
+/home/admin1/Escritorio/upv/cuarto cuatrimestre/Estructura de datos/act2u2/build/CMakeFiles/PRT7Decoder.dir
+/home/admin1/Escritorio/upv/cuarto cuatrimestre/Estructura de datos/act2u2/build/CMakeFiles/docs.dir
+/home/admin1/Escritorio/upv/cuarto cuatrimestre/Estructura de datos/act2u2/build/CMakeFiles/edit_cache.dir
+/home/admin1/Escritorio/upv/cuarto cuatrimestre/Estructura de datos/act2u2/build/CMakeFiles/rebuild_cache.dir
